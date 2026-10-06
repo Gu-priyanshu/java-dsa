@@ -1,3 +1,5 @@
+package Array.RangeSumQuery;
+
 public class Solution{
     public static int[] prefixSum(int[] nums){
         int n = nums.length;
